@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/bhautik-a-mangukiya/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Bhautik A. Mangukiya" height="30" width="1000" /></a>
+<a href="https://www.linkedin.com/in/bhautik-a-mangukiya/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Bhautik A. Mangukiya" height="30" width="100" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
